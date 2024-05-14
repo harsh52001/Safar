@@ -1,0 +1,4 @@
+#Mon May 06 08:39:59 IST 2024
+base.0=C\:\\Users\\HARSH\\OneDrive\\Desktop\\New folder\\safar\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
